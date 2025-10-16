@@ -47,3 +47,7 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Se ignorar archivos pesados
+/data/censo2017_rm.sql
+
